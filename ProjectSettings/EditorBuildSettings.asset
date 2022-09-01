@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Own Scenes/Test Scene.unity
-    guid: 4dd69c03fadea814ba39c25e1a62455e
+    path: Assets/Scenes/Own Scenes/Reflector Scene.unity
+    guid: 4aa9939f36b0ce445b55ab5760a744af
   m_configObjects: {}
